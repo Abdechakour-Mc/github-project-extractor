@@ -1,0 +1,28 @@
+{
+    "size_categories": {
+        "small": [
+            500,
+            1500
+        ],
+        "medium": [
+            1500,
+            10000
+        ],
+        "large": [
+            10000,
+            50000
+        ]
+    },
+    "projects_per_category": 30,
+    "languages": [
+        "java",
+        "python"
+    ],
+    "search_parameters": {
+        "min_stars": 10,
+        "created_range": "2015-01-01..2020-01-01",
+        "last_pushed": "<2020-12-31"
+    },
+    "target_year": 2020,
+    "output_file": "data/pre_github_projects.json"
+}

@@ -1,0 +1,27 @@
+{
+    "size_categories": {
+        "small": [
+            500,
+            1500
+        ],
+        "medium": [
+            1500,
+            10000
+        ],
+        "large": [
+            10000,
+            50000
+        ]
+    },
+    "projects_per_category": 30,
+    "languages": [
+        "java",
+        "python"
+    ],
+    "search_parameters": {
+        "min_stars": 10,
+        "created_range": "2022-01-01..2025-03-01",
+        "last_pushed": "<2025-03-01"
+    },
+    "output_file": "data/post_github_projects.json"
+}

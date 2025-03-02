@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "timestamp": "2025-03-02T09:49:36.054373",
+    "projects_per_category": 2,
+    "size_categories": {
+      "small": [
+        500,
+        1500
+      ],
+      "medium": [
+        1500,
+        10000
+      ],
+      "large": [
+        10000,
+        50000
+      ]
+    },
+    "languages": [
+      "java",
+      "python"
+    ]
+  },
+  "projects": {
+    "java": {
+      "small": [
+        {
+          "name": "burpgpt",
+          "full_name": "aress31/burpgpt",
+          "url": "https://github.com/aress31/burpgpt",
+          "api_url": "https://api.github.com/repos/aress31/burpgpt",
+          "description": "A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type.",
+          "stars": 2065,
+          "forks": 242,
+          "language": "java",
+          "size_category": "small",
+          "lines_of_code": 1010,
+          "contributors_count": 1,
+          "created_at": "2023-04-08T17:58:26Z",
+          "last_commit_date": "2024-06-09T20:40:28Z",
+          "is_archived": false,
+          "is_fork": false
+        },
+        {
+          "name": "spring-boot-3-jwt-security",
+          "full_name": "ali-bouali/spring-boot-3-jwt-security",
+          "url": "https://github.com/ali-bouali/spring-boot-3-jwt-security",
+          "api_url": "https://api.github.com/repos/ali-bouali/spring-boot-3-jwt-security",
+          "description": "Sample project on how to implement JWT security based using Spring boot 3 and Spring security 6",
+          "stars": 1922,
+          "forks": 902,
+          "language": "java",
+          "size_category": "small",
+          "lines_of_code": 1254,
+          "contributors_count": 3,
+          "created_at": "2022-12-29T13:21:52Z",
+          "last_commit_date": "2024-04-06T12:23:08Z",
+          "is_archived": false,
+          "is_fork": false
+        }
+      ],
+      "medium": [
+        {
+          "name": "chatgpt-java",
+          "full_name": "PlexPt/chatgpt-java",
+          "url": "https://github.com/PlexPt/chatgpt-java",
+          "api_url": "https://api.github.com/repos/PlexPt/chatgpt-java",
+          "description": "ChatGPT Java SDK\u3002\u652f\u6301 GPT-4o\u3001 GPT4 API\u3002\u5f00\u7bb1\u5373\u7528\u3002An unofficial Java SDK for seamless integration with ChatGPT's GPT-3.5 and GPT-4 APIs. Ready-to-use, simple setup, and efficient for building AI-powered applications.",
+          "stars": 3629,
+          "forks": 714,
+          "language": "java",
+          "size_category": "medium",
+          "lines_of_code": 4560,
+          "contributors_count": 10,
+          "created_at": "2022-12-07T04:55:33Z",
+          "last_commit_date": "2024-10-29T05:15:49Z",
+          "is_archived": false,
+          "is_fork": false
+        },
+        {
+          "name": "sql-father-backend-public",
+          "full_name": "liyupi/sql-father-backend-public",
+          "url": "https://github.com/liyupi/sql-father-backend-public",
+          "api_url": "https://api.github.com/repos/liyupi/sql-father-backend-public",
+          "description": "\u65b0\u9879\u76ee\uff1a\u5feb\u901f\u751f\u6210 SQL \u548c\u6a21\u62df\u6570\u636e\u7684\u7f51\u7ad9\uff08Java \u540e\u7aef\uff09\uff0c\u5927\u5e45\u63d0\u9ad8\u5f00\u53d1\u6d4b\u8bd5\u6548\u7387\uff01by \u7a0b\u5e8f\u5458\u9c7c\u76ae",
+          "stars": 2004,
+          "forks": 698,
+          "language": "java",
+          "size_category": "medium",
+          "lines_of_code": 6185,
+          "contributors_count": 2,
+          "created_at": "2022-10-19T05:33:48Z",
+          "last_commit_date": "2023-05-21T12:06:42Z",
+          "is_archived": false,
+          "is_fork": false
+        }
+      ],
+      "large": [
+        {
+          "name": "chatgpt-java",
+          "full_name": "Grt1228/chatgpt-java",
+          "url": "https://github.com/Grt1228/chatgpt-java",
+          "api_url": "https://api.github.com/repos/Grt1228/chatgpt-java",
+          "description": "ChatGPT Java SDK\u652f\u6301\u6d41\u5f0f\u8f93\u51fa\u3001Gpt\u63d2\u4ef6\u3001\u8054\u7f51\u3002\u652f\u6301OpenAI\u5b98\u65b9\u6240\u6709\u63a5\u53e3\u3002ChatGPT\u7684Java\u5ba2\u6237\u7aef\u3002OpenAI GPT-3.5-Turb GPT-4  Api Client for Java",
+          "stars": 3386,
+          "forks": 817,
+          "language": "java",
+          "size_category": "large",
+          "lines_of_code": 11743,
+          "contributors_count": 5,
+          "created_at": "2023-02-11T08:54:54Z",
+          "last_commit_date": "2024-05-07T15:53:47Z",
+          "is_archived": false,
+          "is_fork": false
+        }
+      ]
+    },
+    "python": {}
+  }
+}
